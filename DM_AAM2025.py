@@ -1,4 +1,3 @@
-# Python 3.8.6 64-bit
 # UTF-8
 # Margaux Faurie
 
